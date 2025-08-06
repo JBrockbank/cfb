@@ -1,0 +1,14 @@
+# Node dependencies
+backend/node_modules/
+frontend/node_modules/
+
+# dotenv files (secrets)
+backend/.env
+
+# IDE and system files
+*.log
+.DS_Store
+
+# Build outputs
+build/
+dist/
